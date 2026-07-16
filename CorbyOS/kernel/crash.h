@@ -1,0 +1,1 @@
+void crash_display(const char* error);
