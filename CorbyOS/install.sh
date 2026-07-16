@@ -1,0 +1,1 @@
+apt install -y rub-common grub-pc-bin xorriso nasm llvm clang lld qemu-system
