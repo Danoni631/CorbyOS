@@ -3,7 +3,7 @@ font=Fira+Code&size=26&duration=1800&pause=300&color=27BEF5&center=true&vCenter=
 
 <div align = "center">
   <a href = "https://github.com/Danoni631/CorbyOS">
-    <img src = "logo.png" alt = "Logo" width = "120" height = "110">
+    <img src = "logo.png" alt = "Logo" width = "220" height = "210">
   </a>
 </div>
 
