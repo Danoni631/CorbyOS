@@ -1,1 +1,0 @@
-nasm -f bin "MBR/brsk.asm" -o "MBR/brsk.img"
