@@ -85,7 +85,7 @@ run: iso
 		-net nic,model=rtl8139,netdev=net0 \
 		-object filter-dump,id=f1,netdev=net0,file=net.pcap \
 		-serial stdio \
-		-drive file=NovaOS.iso,format=raw,if=ide,index=0 \
+		-drive file=CorbyOS_.10.iso,format=raw,if=ide,index=0 \
 		-drive file=disk.raw,format=raw,if=ide,index=2
 
 # ------------------------------------------------------
