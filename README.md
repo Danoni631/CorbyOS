@@ -12,7 +12,7 @@ CorbyOS is a C and ASM OS made by Danoni631. This is my biggest and my favorite 
 
 This OS started the development in 06/30/2026, and finished the development in 07/16/2026. Sadly, CorbyOS don't have any iso or img because i failed to compilate. Please, compilate the CorbyOS binaries and mount a iso or img.
 
-You can fork this repository, report bugs in issues and change the code. CorbyOS is opne-source.
+You can fork this repository, report bugs in issues and change the code. CorbyOS is open-source.
 
 If you see CorbyOS kernel code, you can see a dir named 'corby_ui'. Is a GUI for this OS.
 
@@ -20,3 +20,5 @@ If you see CorbyOS kernel code, you can see a dir named 'corby_ui'. Is a GUI for
 im gonna add screenshots here :P
 
 <p align="center"><img src="mini_msg.png"></p>
+
+NOTE: In a time CorbyOS be gonna temporary archived
